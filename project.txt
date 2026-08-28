@@ -1,1 +1,2 @@
-I want to learn how to use Git and GitHub to manage projects and collaborate with others. 
+I want to learn how to use Git and GitHub to manage projects and collaborate with others.
+A potential project idea is to create a simple website that helps students organize their tasks and assignments.
